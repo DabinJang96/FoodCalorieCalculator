@@ -1,4 +1,4 @@
-# YourRecipeNutrients
+# FoodCal
 
 Extension of School project
 
