@@ -1,4 +1,4 @@
-# FoodCal
+# FoodCalorie
 
 Extension of School project
 
